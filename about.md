@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: This is Nay
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+做程序三年，算是拥有了自己的Blog，为什么现在才有呢？不是技术不到位，是因为才发现SF的免费空间不错。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+2002年接触电脑，开始慢慢了解电脑的软硬件，常用的软件都接触过。PC也拆解，组装，升级过无数次。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+2007年接触编程，在北大青鸟做的培训，学习的是Java和C#。
 
+学习期间，自己发起过多个项目实践，从实践中积累了些许的经验。那个时候用的是Swing做的界面，HTML完全不会。
 
-[jekyll-organization]: https://github.com/jekyll
+后来也是由于项目实践接触的HTML，然后是Javascript和CSS。到目前一直在不断积累中。
+
+后续学习了C，C++，PHP。
+
+最终发现自己做UI不行，而且喜欢和数据库以及架构打交到，所以觉得隐居幕后更适合我。
+
+This is me,Nay!
